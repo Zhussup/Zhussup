@@ -33,11 +33,14 @@ Web platform (FastAPI + React/TypeScript) with an HPC core in **C++17 / CUDA** e
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zhussup&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zhussup&theme=github_dark" alt="Profile details" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zhussup&theme=github_dark" alt="Stats" width="49%" />
 
-<img src="https://streak-stats.demolab.com?user=Zhussup&theme=tokyonight&hide_border=true" alt="GitHub streak" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zhussup&theme=github_dark" alt="Repos per language" width="32.5%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zhussup&theme=github_dark" alt="Most commit language" width="32.5%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zhussup&theme=github_dark" alt="Productive time" width="32.5%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhussup&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages" width="42%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zhussup&bg_color=1a1b27&color=a9b1d6&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Commit activity graph" width="100%" />
 
 ---
 
