@@ -22,7 +22,7 @@
 
 ### GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zhussup&theme=github_dark" alt="Profile details" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zhussup&theme=github_dark" alt="Profile details" width="100%" />
 
 ---
 
