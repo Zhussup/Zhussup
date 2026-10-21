@@ -11,14 +11,14 @@
 ### Tech Stack
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,fastapi,js,ts,c,cpp,linux,git,cmake,bash,docker&perline=13" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,js,ts,c,cpp,linux&perline=13" />
 </a>
 
 **Languages:** Python · C++ · C · CUDA · ASM (x86/x86-64) · JavaScript / TypeScript
 
-**Frameworks & Libs:** PyTorch · OpenCV · FastAPI
+**Frameworks & Libs:** PyTorch · FastAPI
 
-**Tools:** Linux · Git · CMake · GDB · Bash · Docker
+**Tools:** Linux · Git · GDB · Bash
 
 ### GitHub Stats
 
