@@ -8,7 +8,7 @@ terminal and graphical clients on top of one snapshot protocol, a C++ compute
 core with an ergonomic Python layer above it — and profile the hot paths down
 to the assembly level.
 
-Industry experience: six months as an ML engineer — the last four at **QSMeta**, a startup, as system architect and head of the software department.
+Industry experience: six months as an ML engineer, plus four months at **QSMeta**, a startup, as project architect and head of the software department.
 
 ## Focus
 
