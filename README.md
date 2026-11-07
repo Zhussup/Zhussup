@@ -8,6 +8,8 @@ terminal and graphical clients on top of one snapshot protocol, a C++ compute
 core with an ergonomic Python layer above it — and profile the hot paths down
 to the assembly level.
 
+Industry experience: six months as an ML engineer — the last four at **QSMeta**, a startup, as system architect and head of the software department.
+
 ## Focus
 
 - **High-performance C++ (C++20) and C** — memory layout, SIMD, CUDA; profiling hot paths with GDB and perf on Linux.
